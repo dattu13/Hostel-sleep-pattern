@@ -106,7 +106,7 @@ python sleep_analysis.py
 
 👨‍💻 Author
 
-G. Sudeep Narayana
+CHILKUR DATTATHREYA 
 
 ---
 
